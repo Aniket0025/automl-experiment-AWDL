@@ -1,0 +1,8 @@
+pycaret
+bentoml
+mlflow
+dvc
+pandas
+scikit-learn
+jupyter
+numpy
